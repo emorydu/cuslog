@@ -1,0 +1,2 @@
+{"message":"custom log with json formatter.","level":"INFO","time":"2023-07-27T16:40:46+08:00","file":"/Users/emory/enterpries/cuslog/examples/main.go:24","func":"main.main"}
+2023-07-27T16:41:46+08:00 INFO main.go:24 custom log with json formatter.
